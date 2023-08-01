@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me<br>I am an engineering student with a passion for bringing new visions to my surroundings through creativity and analytical thinking. My curiosity drives me to constantly seek out new knowledge and skills. I am enthusiastic about tackling challenges and have a strong ability to work both independently and as part of a team. With a keen eye for detail and a determination to excel, I strive to contribute innovative solutions to engineering projects. My ultimate goal is to make a meaningful impact in the field of engineering and contribute to the advancement of technology.
+I am an engineering student with a passion for bringing new visions to my surroundings through creativity and analytical thinking. My curiosity drives me to constantly seek out new knowledge and skills. I am enthusiastic about tackling challenges and have a strong ability to work both independently and as part of a team. With a keen eye for detail and a determination to excel, I strive to contribute innovative solutions to engineering projects. My ultimate goal is to make a meaningful impact in the field of engineering and contribute to the advancement of technology.
 
 
 ## 🌐 Socials:
